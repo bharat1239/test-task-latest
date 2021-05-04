@@ -16,6 +16,11 @@ printing this code on console screen.
 
 - Normal HTML5 elements is used with styling.
 
+- Here, we have three routes:
+  - root /: where user will enter the phone number
+  - /otp: where user will enter the received otp
+  - /home: user will be redirected to this page when otp is correct.
+
 ## Available Scripts
 
 You can see two folders in the root directory i.e backend and frontend.
