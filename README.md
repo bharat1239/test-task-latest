@@ -1,6 +1,6 @@
 ### Notes
 
-***Due to the time limit, we have not added any validations i.e on input field and on APIs side. Please use number only for checking the flow.***
+***Due to the time limit, we have not added any further validations i.e on input field and on APIs side.***
 
 ***Backend side***:
 
